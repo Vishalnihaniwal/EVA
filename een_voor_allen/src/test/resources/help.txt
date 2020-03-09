@@ -1,0 +1,7 @@
+
+Parallel 
+1.	If no browser mentioned in browser column in TESTCASE.xlsx file then execution will start on all browsers [ depends how many nodes has been initiated]. Similar test case will execute on all threads/browsers.
+2.	If browser mentioned  in browser column in TESTCASE.xlsx file then execution will start on the browsers which has been mentioned. Similar test case will execute on all threads/browsers.
+
+Customized
+1 It will fetch test cases from TESTCASE.xlsx file and each thread will execute independent test case.

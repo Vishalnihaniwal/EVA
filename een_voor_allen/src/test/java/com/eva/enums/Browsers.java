@@ -1,0 +1,6 @@
+package com.eva.enums;
+
+public enum Browsers {
+
+	INTERNET_EXPLORER, FIREFOX, CHROME, IOS, ANDROIDCHROME1, MAC, ANDROIDCHROME2, MAC_CHROME, EDGE;	
+}

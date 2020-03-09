@@ -1,0 +1,37 @@
+Points to remember :-
+Should not start node before starting server[from UI] else it will terminate node.
+Atleast select one value from drop down.
+Hub should have Appium installed[command line]
+URL should not be having leading or trailing sapces otherwise it will not open URL on Mac machines.
+Node and hub communication should not be checked if only IOS is running.
+ 
+Remove hard coded value of device from Driver creation
+
+Implement Report class file - DONE
+Once start button click then disable START button - DONE
+Add (If server is running then popup message stating "SERVER IS ALREADY RUNING DO YOU WANT TO TERMINATE CURRENT SESSION AND START NEW SESSION") ---DONE
+Image comparison - DONE
+Implement Exception class - 
+Implement Logger - 
+Generic methods for actions
+
+Image Comparison :- Test Data folder should be created auto for BaseLine image.
+Log folder should move to temp folder This should be move to temp folder
+
+Record Video for fail cases for remote machines
+Screenshot level from property file
+Option for Native app testing
+Frame should change according to device selections.
+Add global synchronization time in Seconds.
+
+
+OR - Self healing
+Email Results
+JIRA integration
+Voice recognization
+Report new format
+
+properties file
+Read command prompt so that script can identify the hub window.
+Open HTML file after execution completion
+

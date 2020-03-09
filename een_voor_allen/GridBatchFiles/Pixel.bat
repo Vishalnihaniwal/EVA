@@ -1,0 +1,1 @@
+appium -a 127.0.0.1 -p 4727 --no-reset --chromedriver-executable .\drivers\chromedriver.exe --bootstrap-port 47230 -U FA6AW0303028 --nodeconfig .\jsonRealDevice_Pixel.json

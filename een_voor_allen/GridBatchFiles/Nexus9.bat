@@ -1,0 +1,1 @@
+appium -a 127.0.0.1 -p 4726 --no-reset --chromedriver-executable .\drivers\chromedriver.exe --bootstrap-port 47230 -U HT4C3WV00232 --nodeconfig .\jsonRealDevice_Nexus9.json

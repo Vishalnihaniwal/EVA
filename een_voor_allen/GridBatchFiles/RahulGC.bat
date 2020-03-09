@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver=.\drivers\chromedriver.exe -jar .\selenium-server-standalone-3.6.0.jar -role node -hub http://192.168.1.100:4444/wd/register -port 5570

@@ -1,0 +1,1 @@
+appium -a 127.0.0.1 -p 4732 --no-reset --chromedriver-executable chromedriver.exe --bootstrap-port 47230 -U 27c40d9c --nodeconfig .\jsonRealDevice_LETV.json
